@@ -24,7 +24,7 @@ After you have unboxed all your packages and remembered to pop the bubble wrap, 
 
 
 
-The names of the ports are the **3v3**, **GND**, and **A0/ADC**. If you are having trouble finding them, I have attached a image of the Huzzah wiring [here](https://learn.adafruit.com/assets/46249 "Adafruit Huzzah Wiring"). If you are having issues, think of it as the 2nd, 4th, and 5th port on the reset button side of the Adafruit Huzzah Feather. Once your HR Sensor and Huzzah are connected, simply plug in your Huzzah to your computer with a micro USB cable. When everything is done, open up the Arduino IDE and make sure you install the driver ( [ESP8266 Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers "ESP8266 Driver")) for compatibility between devices!
+The names of the ports are the **3v3**, **GND**, and **A0/ADC**. If you are having trouble finding them, I have attached a image of the Huzzah wiring [here](https://learn.adafruit.com/assets/46249 "Adafruit Huzzah Wiring"). If you are having issues, think of it as the 2nd, 4th, and 5th port on the reset button side of the Adafruit Huzzah Feather. Once your HR Sensor and Huzzah are connected, simply plug in your Huzzah to your computer with a micro USB cable. When everything is done, open up the Arduino IDE and make sure you install the driver ([ESP8266 Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers "ESP8266 Driver")) for compatibility between devices!
 
 
 
