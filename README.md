@@ -4,7 +4,6 @@ For this project, I wanted to create an easy-to-use, efficient, and cheap soluti
 
 
 
-![](https://github.com/Bahburs/iot-heartrate-monitor-with-azure-applications/blob/master/images/PortalAzureImage.PNG?raw=true)
 
 
 
@@ -50,7 +49,7 @@ After you have finished configuring your [config.h](https://github.com/Bahburs/i
 
 ### Finalizing Azure Applications
 
-Your on the final stretch! There are only a few more things we need to do. We are gonna start off by creating a Logic App. Azure Logic Apps allow us to use triggers to call actions like reading an email, interacting with a database, and most importantly, sending a text message. The first step is to create our own logic app. Follow this [tutorial](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow "Creating a Logic App") until you have to set a trigger. For our project, we will be using an HTTP Request. An HTTP request is just a format for request and responses between a client and a server. In simple words, it does magic to connect things together. 
+You're on the final stretch! There are only a few more things we need to do. We are gonna start off by creating a Logic App. Azure Logic Apps allow us to use triggers to call actions like reading an email, interacting with a database, and most importantly, sending a text message. The first step is to create our own logic app. Follow this [tutorial](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow "Creating a Logic App") until you have to set a trigger. For our project, we will be using an HTTP Request. An HTTP request is just a format for request and responses between a client and a server. In simple words, it does magic to connect things together. 
 
 
 
