@@ -69,10 +69,6 @@ If everything went smoothly, you should now have a fully functional Azure Logic 
 
 
 
-![](https://github.com/Bahburs/iot-heartrate-monitor-with-azure-applications/blob/master/images/ActiveMovementGif.gif?raw=true)
-
-
-
 
 
 
